@@ -1,2 +1,4 @@
-# Mapping_Earthquakes
-Repository for Module 13
+# Mapping Earthquakes
+
+### Purpose
+We were initially tasked with displaying earthquake data on an interactive map using GeoJSON and Leaflet as well as our knowledge of JavaScript, HTML and CSS. Upon completion, we were challenged to create two more layers that include the tectonic plates and major earthquakes. To do this, we had to find the JSON files via a github repository and the US Geological Survey website. We refactored our code to include toggleable layers that cntained the requested data. In addition to this, we added a third map tile layer called "Light" that gives added contrast between the maps and the features. We may revisit this project to create opaque circle markers instead of the filled in markers to be more visually pleasing and allow viewrs to see what cities and geological features are close to the epicenter of these earthquakes.
